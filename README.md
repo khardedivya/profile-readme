@@ -22,5 +22,5 @@ Proficient in Java for building scalable applications, skilled in C/C++ for effi
 - Email: khardedivya26@gmail.com
 - LinkedIn: [Divya Kharde](https://www.linkedin.com/in/divya-kharde-7409782b7/)
 - Portfolio:
-- CodeChef: [Your CodeChef Profile](https://www.codechef.com/users/divya_k31)https://www.codechef.com/users/divya_k31)
+- CodeChef: [Your CodeChef Profile](https://www.codechef.com/users/divya_k31)
 
