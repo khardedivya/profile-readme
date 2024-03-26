@@ -1,7 +1,6 @@
 # profile-readme
 
 # Kharde Divya
-![CodeChefBadge (1)](https://github.com/khardedivya/profile-readme/assets/160855762/635147be-b5da-43a5-b518-72d4ff9cdf10)
 
 ### About Me
 Proficient in Java for building scalable applications, skilled in C/C++ for efficient coding, and experienced in web development for creating user-friendly interfaces. Additionally, knowledgeable in data mining for extracting valuable insights and machine learning for predictive modeling.
